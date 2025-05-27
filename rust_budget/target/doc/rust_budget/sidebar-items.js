@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ERROR_INPUT"],"enum":["TransactionType"],"fn":["add_transaction","display_account","main"],"struct":["Transaction"]};
